@@ -1,2 +1,2 @@
 # beekeeper
-Game jam
+First trial in UMD Game jam
